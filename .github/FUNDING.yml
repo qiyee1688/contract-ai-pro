@@ -1,0 +1,11 @@
+# 这些是支持项目的赞助平台。
+# 请根据你的实际情况修改或删除不需要的平台
+
+github: [your-github-username]  # GitHub Sponsors 用户名
+patreon: your-patreon-username  # Patreon 用户名
+open_collective: your-collective  # Open Collective
+ko_fi: your-kofi-username  # Ko-fi
+tidelift: npm/your-package  # Tidelift
+custom: ['https://your-website.com/donate']  # 自定义打赏链接
+
+# 微信/支付宝打赏二维码图片链接可以放在 README 中
